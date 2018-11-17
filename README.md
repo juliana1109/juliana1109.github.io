@@ -28,14 +28,14 @@ You have to fill some informations on `_config.yml` to customize your site.
 
 ```
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+description: Ecole Normale de Musique de Syndey
+baseurl: "/Ecole-Normale-de-Musique-de-Sydney" # the subpath of your site, e.g. /blog/
+url: "https://juliana1109.github.io/" # the base hostname & protocol for your site
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+username: Ecole-Normale-de-Musique-de-Sydne
+user_description: Ecole-Normale-de-Musique-de-Sydne
+user_title: Ecole-Normale-de-Musique-de-Sydne
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
