@@ -1,8 +1,8 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Ecole-Normale-de-Musique-de-Sydney
+description: Ecole-Normale-de-Musique-de-Sydney
+# baseurl: "/Ecole-Normale-de-Musique-de-Sydney" # the subpath of your site, e.g. /blog
+# url: "https://juliana1109.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ecole-Normale-de-Musique-de-Sydney
