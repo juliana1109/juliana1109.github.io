@@ -1,11 +1,11 @@
 # Site settings
-title: Ecole-Normale-de-Musique-de-Sydney
-description: Ecole-Normale-de-Musique-de-Sydney
-# baseurl: "/Ecole-Normale-de-Musique-de-Sydney" # the subpath of your site, e.g. /blog
+title: École de Piano de Sydney
+description: École de Piano de Sydney
+# baseurl: "/ÉcolePianoSydney" # the subpath of your site, e.g. /blog
 # url: "https://juliana1109.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Ecole-Normale-de-Musique-de-Sydney
+username: École de Piano de Sydney
 user_description: xxxx.
 user_title: Software Developer
 email: juliana.seo.1109@gmail.com
