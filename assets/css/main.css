@@ -13,7 +13,7 @@
   ===================================== 
 */
 
-.mapWrapper image-right{
+.mapWrapper {
     position: relative;
     /* 
 
@@ -22,7 +22,7 @@
     400 / 600 = .66666667 
     which is 66.6666667% */
     padding-bottom: 66.6666667%; 
-    height: 0;
+    height: 50%;
 }
 
 .mapWrapper iframe {
