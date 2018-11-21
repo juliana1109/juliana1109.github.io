@@ -22,7 +22,7 @@
     400 / 600 = .66666667 
     which is 66.6666667% */
     padding-bottom: 66.6666667%; 
-    height: 50%;
+    height: 100%;
 }
 
 .mapWrapper iframe {
