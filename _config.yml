@@ -3,13 +3,13 @@ plugins:
   
 # Site settings
 title: École de Piano de Sydney
-description: A classical Piano school covering Dundas, Epping, Eastwood, Newington, and Ryde regions 
-# baseurl: "/ÉcolePianoSydney" # the subpath of your site, e.g. /blog
+description: Classical piano school covering Dundas, Epping, Eastwood, Ermington, Newington, and Ryde regions 
+# baseurl: "/ecolepianosydney.com" # the subpath of your site, e.g. /blog
 # url: "https://juliana1109.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: École de Piano de Sydney
-user_description: École de Piano de Sydney is a piano school dedicated to motivate and inspire our students with high-quality European classical music instruction.
+user_description: Classical piano school covering Dundas, Epping, Eastwood, Ermington, Newington, and Ryde regions
 user_title: École de Piano de Sydney
 
 # Google-analytics
