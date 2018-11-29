@@ -1,6 +1,9 @@
+plugins:
+  - jekyll-seo-tag
+  
 # Site settings
 title: École de Piano de Sydney
-description: École de Piano de Sydney
+description: A classical Piano school covering Dundas, Epping, Eastwood, Newington, and Ryde regions 
 # baseurl: "/ÉcolePianoSydney" # the subpath of your site, e.g. /blog
 # url: "https://juliana1109.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -8,10 +11,6 @@ description: École de Piano de Sydney
 username: École de Piano de Sydney
 user_description: École de Piano de Sydney is a piano school dedicated to motivate and inspire our students with high-quality European classical music instruction.
 user_title: École de Piano de Sydney
-email: juliana.seo.1109@gmail.com
-twitter_username: xxx
-github_username:  
-gplus_username: 
 
 # Google-analytics
 google-analytics:
