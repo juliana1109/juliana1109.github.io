@@ -2,15 +2,15 @@ plugins:
   - jekyll-seo-tag
   
 # Site settings
-title: École de Piano de Sydney
-description: Piano lessons for Dundas, Epping, Eastwood, Ermington, and Newington regions in Sydney 
+title: Ecole Music Sydney
+description: Piano, Violin, Viola, Cello, Flute, Classical guitar for Dundas, Epping, Eastwood, Ermington, and Newington regions in Sydney 
 # baseurl: "/ecolepianosydney.com" # the subpath of your site, e.g. /blog
 # url: "https://juliana1109.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: École de Piano de Sydney
-user_description: École de Piano de Sydney is a piano school dedicated to motivate and inspire students with high-quality European classical music instruction.
-user_title: Piano lessons for Dundas, Epping, Eastwood, Ermington, and Newington regions in Sydney
+username: Ecole Music Sydney
+user_description: Ecole Music Sydney is a Premium Classical Music School to provide high standards of music education.
+user_title: Piano, Violin, Viola, Cello, Flute, Classical guitar for Dundas, Epping, Eastwood, Ermington, and Newington regions in Sydney
 
 # Google-analytics
 google-analytics:
