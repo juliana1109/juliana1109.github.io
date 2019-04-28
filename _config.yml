@@ -2,9 +2,9 @@ plugins:
   - jekyll-seo-tag
   
 # Site settings
-title: Ecole Music Sydney
-description: Piano, Violin, Viola, Cello, Flute, Classical guitar for Dundas, Epping, Eastwood, Ermington, and Newington regions in Sydney 
-# baseurl: "/ecolepianosydney.com" # the subpath of your site, e.g. /blog
+title: Ecole Music Sydney | Premium Classical Music School
+description: Piano, Violin, Viola, Cello, Flute, Classical guitar for Dundas, Epping, Eastwood, Ermington, Ryde, and Newington regions in Sydney 
+# baseurl: "/ecolemusicsydney.com" # the subpath of your site, e.g. /blog
 # url: "https://juliana1109.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
